@@ -1,6 +1,6 @@
 # CSE 310 - Course Report
 
-Name:
+Name: Dylan Butterfield
 
 ## Part 1 - Semester Planning
 
@@ -60,6 +60,8 @@ Every Sprint you will be setting a goal to improve one of your learning skills. 
 |I am motivated by goals and vision (growth mindset).       |     3     |
 
 2. Based on your resonses in the survey above, pick one area that you want to improve.  Write a "Small and Simple" goal to improve in this area throughout the semester.  Write your goal below:
+    The area I picked: Risk Management Skills.
+    The goal: Start each week by identifying one potential challenge or obstacle I may encounter, and create a simple plan to mitigate it.
 
 
 ## Part 2 - Semester Conclusion

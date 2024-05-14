@@ -1,6 +1,6 @@
 # CSE 310 - Module Report
 
-Name:
+Name: Dylan Butterfield
 
 ## Part 1 - Module Planning
 
@@ -8,7 +8,7 @@ This section should be filled on the first Monday of the Sprint and submitted
 
 ### Section 1.1 - Module Selection
 
-1. What Sprint is this for (1-5)?
+1. What Sprint is this for (1-5)? 2
 
 2. Select the Module (with a single X) that you will do this Sprint:
 
@@ -26,25 +26,46 @@ This section should be filled on the first Monday of the Sprint and submitted
 |Java                     |               |
 |Kotlin                   |               |
 |Erlang                   |               |
-|TypeScript               |               |
+|TypeScript               |       X       |
 |Rust                     |               |
 |Choose Your Own Adventure|               |
 
 3. Find the list of unique requirements for your selected module in the Module Summary in Canvas.  In some circumstances, you will need to modify the requirements based on the technology or language you selected.  For the Choose Your Own Adventure, you need to create your own requirements.  List the unique module requirements below:
+            Write multiple functions (not necessarily part of a single piece of software) in TypeScript that demonstrates some of the following:
+                Display output to the terminal.
+                Recursion
+                Classes
+                Lists
+                Asynchronous functions
 
 ### Section 1.2 - Planning
 
 During the Sprint, you will spend 4 hours in class meetings, 4 hours on your team project (2 of which during class), and 10 hours on your selected module.  Make a plan for your 10 hours by answering the questions below.  You should refer back to this plan and make adjustments during the Sprint.
 
 1. What sources have you selected to learn the technical material?
+    - https://www.digitalocean.com/community/tutorials/typescript-new-project
+    - https://www.w3schools.com/typescript/
+    - https://www.typescripttutorial.net/
+    - https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
+    - youtube.com
 
 2. What is your plan to practice the new material?  In other words, what is the order in which you plan to learn the material before working on your demonstration software?
+    - Review websites listed
+    - Watch YouTube videos on basic set-up, how-to, etc.
 
 3. What demonstration software do you plan on submitting at the end of the Sprint (note that this can and may change)?
 
 4. Identify the days, times, and locations that you will work on the module.
+    - Monday 4/29 & 5/6, ~17:30-19:00 both days
+    - Tuesday 4/30 & 5/7, ~12:00-14:00 both days
+    - Wednesday 5/1 & 5/8, ~07:00-09:00 both days
+    - Thursday 5/2 & 5/9, ~12:00-14:00 both days
+    - Friday 5/3 & 5/10, ~07:00-09:00 both days
+
 
 5. Identify both a technical risk and a behavioral risk that you antcipate may occur during this Sprint.  What is your mitgigation plan?
+    - Technical Risk:  Running into errors during the project, more specifically connecting code together
+    - Behavioral Risk: Forgetting to work on a specific day, not putting forth enough effort
 
 
 ## Part 2 - Time Log
@@ -57,8 +78,8 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 
 |Date      |Start Time|IM or TP|Description                                 |Hours:Minutes|
 |----------|----------|--------|--------------------------------------------|-------------|
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|5/13      |10:20     |IM      |Created project file & looked instructions  |    00:18    |
+|5/14      |08:35     |IM      |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |

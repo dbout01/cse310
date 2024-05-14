@@ -1,10 +1,14 @@
 ## Overview
 
-**Project Title**:
+**Project Title**:  Discography Explorer
 
 **Project Description**:
+Create a command-line tool that allows users to explore Ariana Grande's discography. Users can interact with the tool to view albums, songs, and other related information. The tool will utilize TypeScript to implement various features such as displaying output to the terminal, handling recursion, using classes to model albums and songs, managing lists of albums and songs, implementing asynchronous functions for fetching data, and handling exceptions.
 
 **Project Goals**:
+- Complete discography representation
+- Error handling
+- Efficient data retrieval
 
 ## Instructions for Build and Use
 
@@ -32,9 +36,11 @@ To recreate the development environment, you need the following software and/or 
 
 I found these websites useful in developing this software:
 
-* [Website Title](Link)
-*
-*
+* [DigitalOcean](https://www.digitalocean.com/community/tutorials/typescript-new-project)
+* [W3Schools](https://www.w3schools.com/typescript/)
+* [TypeScript Tutorial](https://www.typescripttutorial.net/)
+* [TypeScriptLang](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+* [YouTube](youtube.com)
 
 ## Future Work
 

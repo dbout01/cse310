@@ -1,8 +1,8 @@
 # CSE 310 - Team Project Report
 
-Canvas Team Number:
+Canvas Team Number: 3
 
-Team Member Names:
+Team Member Names: Alexis, John, Dylan, Logan, Ben, Kevin
 
 ## Part 1 - Initial Planning
 
@@ -13,31 +13,36 @@ This section should be filled out during the first Sprint and submitted by one m
 During this semester, your team will work together to create an application to help students in college.  Your app can be written for the web, mobile device, desktop, or terminal.  The app must include some form of data storage in either a database or a file.  During Sprint 2 you will provide a more detailed scope of the project. 
 
 1. Provide a high level description of the software you plan to create:
-
+    - A 2D pixel game that uses the Unity platform to "gamify" someone's life.
 2. Describe the purpose of the Software:
-
+    - Provide an interactive way to help users complete goals and earn achievements. 
 3. Identify the programming languages, frameworks, and libraries you will most likely need to learn and use:
-
+    - C#
+    - Unity
+    - C++
+    - Unity libraries
 ### Section 1.2 Communication
 
 1. What tool will use for team assignments (e.g. Trello, MS Planner, Asana)? 
+    - Jira
 
 2. What tool will use for team communication (e.g. MS Teams, Slack, Discord)? 
+    - Discord
 
 3. Is every team members connected with the tools that you selected?
-
+    - Every one is connected on Discord, we all getting connected on Jira.
 ### Section 1.3 Team Roles
 
 Every team member is a software developer on the project.  Each team member is also responsible for preparing for and participating in all presentations.  Identify who will be responsible for the following items:
 
-|Responsiblity                   |Team Member         |
+|Responsibility                  |Team Member         |
 |--------------------------------|--------------------|
-|Conducting Meetings             |                    |
-|Maintaining Team Assignment List|                    |
-|Ensuring GitHub is Working      |                    |
-|Maintaining Documentation       |                    |
-|Create & Display Presentations  |                    |
-|Submit Team Assignments         |                    |
+|Conducting Meetings             | Alexis             |
+|Maintaining Team Assignment List| John               |
+|Ensuring GitHub is Working      | Kevin              |
+|Maintaining Documentation       | Logan              |
+|Create & Display Presentations  | Dylan              |
+|Submit Team Assignments         | Ben                |
 
 ### Section 1.4 - General Schedule
 
@@ -47,7 +52,7 @@ Team members will spend 4 hours per Sprint (2 in class and 2 outside of class) w
 |------|------------------------------------------------|
 |  1   |Planning, Tool Installation, Technology Learning|
 |  2   |Prototyping and Detailed Software Planning      |
-|  3   |Core Feature Developemnt \ Sub-Team Development |
+|  3   |Core Feature Development \ Sub-Team Development |
 |  4   |Integration & Continued Development             |
 |  5   |Integration & Continued Development             |
 | Post |Refinement & Demo                               |
@@ -55,6 +60,7 @@ Team members will spend 4 hours per Sprint (2 in class and 2 outside of class) w
 Each Sprint you will present at the Team Review Meeting for 5 minutes.  You will use the 4-Square presentation template in Canvas.  During Week 13, you will provide a demo for 15 minutes.  You will use the final demo presentation template in Canvas.
 
 1. Does every team member understand the time requirements for the project?
+    - Yes
 
 ### Section 1.5 - Grading
 
@@ -70,16 +76,16 @@ All deliverables except the final project delivery will be a team pass/fail grad
 Each team member will report their individual participation each Sprint using a Canvas quiz.  These points will represent the individual grade on the project.
 
 1. Does every team member understand the grading rubric for the project?
-
+    - Yes
 ## Part 2 - Final Planning
 
 This section should be filled out during the second Sprint and submitted by one member of the team.
 
 ### Section 2.1 - Project Scope
 
-1. Software Title:
+1. Software Title: "Goal Getter" (Slogan: "Make Goals Better")
 
-2. Software Description:
+2. Software Description: 
 
 3. Make a list of features that you plan to include in your software by the end of Week 13.  List your features in terms of priority (highest priority items listed first):
 
@@ -93,7 +99,7 @@ This section should be filled out during the second Sprint and submitted by one 
 _Note: Add more rows as needed._
 
 
-4. Identify the programming languages, frameworks, and libraries you will be using:
+4. Identify the programming languages, frameworks, and libraries you will be using: Unity, C#, VSCode, Jira
 
 ### Section 2.2 - Updated Team Roles
 

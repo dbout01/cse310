@@ -94,6 +94,7 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 |   5/09   |  13:30   |   IM   | Fixed issue within database & edited python code | 00:30 |
 |   5/09   |  16:30   |   TM   | Created a plan for dividing project aspects & Unity files| 01:00  |
 |   5/11   |  09:00   |   IM   | Created demo video & finished module.md    |   00:18     |
+|   
 
 _Note: Add more rows as needed._
 

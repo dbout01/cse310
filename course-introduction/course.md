@@ -15,7 +15,7 @@ You will work on one module in every 2 week Sprint.  During the Sprint, you will
 |Module                   |Sprint 1|Sprint 2|Sprint 3|Sprint 4|Sprint 5|
 |-------------------------|--------|--------|--------|--------|--------|
 |Cloud Databases          |        |        |   X    |        |        | 
-|Data Analysis            |        |        |        |   X    |        |
+|Data Analysis            |        |        |        |        |        |
 |Game Framework           |        |        |        |        |        |
 |GIS Mapping              |        |        |        |        |        |
 |Mobile App               |        |        |        |        |        |
@@ -28,7 +28,7 @@ You will work on one module in every 2 week Sprint.  During the Sprint, you will
 |Erlang                   |        |        |        |        |        |
 |TypeScript               |        |   X    |        |        |        |
 |Rust                     |        |        |        |        |        |
-|Choose Your Own Adventure|  N/A   |  N/A   |        |        |        |
+|Choose Your Own Adventure|  N/A   |  N/A   |        |   X    |        |
 
 
 

@@ -83,23 +83,28 @@ This section should be filled out during the second Sprint and submitted by one 
 
 ### Section 2.1 - Project Scope
 
-1. Software Title: "Goal Getter" (Slogan: "Make Goals Better")
+1. Software Title: Goal Getter: Make Goals Better
 
-2. Software Description: 
+2. Software Description: A program that "gamifies" one's life. A user can set goals using an interactive, pixelated interface, make goals with their accompanying points, and keep track of said points.
 
 3. Make a list of features that you plan to include in your software by the end of Week 13.  List your features in terms of priority (highest priority items listed first):
 
 |Feature #|Description                                               |
 |---------|----------------------------------------------------------|
-|         |                                                          |
-|         |                                                          |
-|         |                                                          |
-|         |                                                          |
+|1        |Making and tracking goals                                 |
+|2        |Users can receive rewards for their progress              |
+|3        |Spending points for customization of their characters     |
+|4        |Interactivity - having fun in the process                 |
 
 _Note: Add more rows as needed._
 
 
-4. Identify the programming languages, frameworks, and libraries you will be using: Unity, C#, VSCode, Jira
+4. Identify the programming languages, frameworks, and libraries you will be using:
+- Unity Hub, Unity Cloud
+- C#
+- VSCode
+- Jira
+- GitHub
 
 ### Section 2.2 - Updated Team Roles
 
@@ -107,12 +112,12 @@ You can change the roles of team members if desired.  Provide the updated list o
 
 |Responsiblity                   |Team Member         |
 |--------------------------------|--------------------|
-|Conducting Meetings             |                    |
-|Maintaining Team Assignment List|                    |
-|Ensuring GitHub is Working      |                    |
-|Maintaining Documentation       |                    |
-|Create & Display Presentations  |                    |
-|Submit Team Assignments         |                    |
+|Conducting Meetings             | N/A                |
+|Maintaining Team Assignment List| N/A                |
+|Ensuring GitHub is Working      | N/A                | (no updated roles desired)
+|Maintaining Documentation       | N/A                |
+|Create & Display Presentations  | N/A                |
+|Submit Team Assignments         | N/A                |
 
 ## Part 3 - Results
 

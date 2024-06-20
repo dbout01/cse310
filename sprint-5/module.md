@@ -8,7 +8,7 @@ This section should be filled on the first Monday of the Sprint and submitted
 
 ### Section 1.1 - Module Selection
 
-1. What Sprint is this for (1-5)?
+1. What Sprint is this for (1-5)? 5
 
 2. Select the Module (with a single X) that you will do this Sprint:
 
@@ -19,7 +19,7 @@ This section should be filled on the first Monday of the Sprint and submitted
 |Game Framework           |               |
 |GIS Mapping              |               |
 |Mobile App               |               |
-|Networking               |               |
+|Networking               |       X       |
 |SQL Relational Databases |               |
 |Web Apps                 |               |
 |C++                      |               |

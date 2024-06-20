@@ -1,10 +1,12 @@
 ## Overview
 
-**Project Title**:
+**Project Title**: Portfolio
 
-**Project Description**:
+**Project Description**: A professional-style portfolio that showcases my skills as well as a more personal side to me, to engage potential employers and clients.
 
 **Project Goals**:
+    - A user-friendly layout
+    - A succinct explantion of skills, about me, etc. 
 
 ## Instructions for Build and Use
 
@@ -32,9 +34,9 @@ To recreate the development environment, you need the following software and/or 
 
 I found these websites useful in developing this software:
 
-* [Website Title](Link)
-*
-*
+* [Chartjs](https://www.chartjs.org/)
+* [Slick](https://kenwheeler.github.io/slick/)
+* [Forbes](https://www.forbes.com/advisor/business/software/build-a-portfolio-website/)
 
 ## Future Work
 

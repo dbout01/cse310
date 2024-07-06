@@ -87,14 +87,17 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 |Date      |Start Time|IM or TP|Description                                 |Hours:Minutes|
 |----------|----------|--------|--------------------------------------------|-------------|
 |6/10      |1015      |IM      |Completed "Part 1 - Module Planning"        |00:45        |
-|6/11      |1120      |IM      |                                            |00:54        |
+|6/11      |1120      |IM      |Played around with Slick                    |00:54        |
 |6/12      |1015      |TM      |Worked w/Jonathan on our menu screens       |01:00        |
-|6/13      |0751      |IM      |                                            |01:12        |
+|6/13      |0751      |IM      |Created several wireframes                  |01:12        |
 |6/17      |1015      |TM      |Worked on our individual modules            |01:00        |
-|6/18      |1054      |IM      |                                            |01:30        |
-|6/19      |0930      |IM      |                                            |01:01        |
-|6/20      |1630      |TM      |                                            |01:00        |
-|6/21      |0734      |IM      |                                            |01:14        |
+|6/18      |1054      |IM      |Chose a design and started CSS              |01:30        |
+|6/18      |1340      |TM      |Worked on fixing layering issues in Unity   |01:00        |
+|6/19      |0930      |IM      |Worked on html/csss                         |01:01        |
+|6/20      |1630      |TM      |Discussed merging modules & gameplan for next 5 weeks     |01:00        |
+|6/21      |0734      |IM      |Ironed-out CSS bugs for darkmode & others   |01:14        |
+|6/21      |1925      |IM      |Created several more iterations & chose a final design    |02:25        |
+|6/22      |1230      |IM      |Finished module & readme & uploaded video to YouTube      |01:00        |
 
 _Note: Add more rows as needed._
 
@@ -105,7 +108,7 @@ This section should be filled out at the end of the Sprint and submitted.
 
 1. Put your GitHub link for your demonstration software here: https://github.com/dbout01/portfolio
 
-2. Put your YouTube link for your code walkthrough and demo video here:
+2. Put your YouTube link for your code walkthrough and demo video here: https://youtu.be/3P5pXUudN7s
 
 3. Complete the following checklist by either indicating "Yes" or "No". If you indicate "No" then provide an explanation of why beneath the table.
 
@@ -118,14 +121,29 @@ This section should be filled out at the end of the Sprint and submitted.
 |Did you put the readme.md file in GitHub in the top folder? |  Yes   |
 
 4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did.  If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge.
+        I did not complete a stretch challenge.
 
 5. Did you change your selected module during the middle of the Sprint?  If yes, then describe what you changed it to, when you changed it, and why you changed it.
+        N/A
 
 6. Using the log above, fill in the total hours and minutes you spent on the individual module:
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|                   |
+|Individual Module|      10:01        |
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
+        What worked well
+        Behavioral
+        - Motivation/excited to have a good looking website
+        Technical
+        - Getting CSS to display darkmode elements correctly
 
+        What didn't work well
+        Behavioral
+        -  Found myself putting off decisions or tasks, which affected my project's progress
+        Technical
+        - Coming up with unique ways to showcase my personality through effects
+
+        Way to improve next sprint
+        - Focus on one thing at a time when building the project

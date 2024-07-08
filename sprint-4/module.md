@@ -108,7 +108,7 @@ This section should be filled out at the end of the Sprint and submitted.
 
 1. Put your GitHub link for your demonstration software here: https://github.com/dbout01/portfolio
 
-2. Put your YouTube link for your code walkthrough and demo video here: https://youtu.be/3P5pXUudN7s
+2. Put your YouTube link for your code walkthrough and demo video here: https://youtu.be/FfILbB7dD1I
 
 3. Complete the following checklist by either indicating "Yes" or "No". If you indicate "No" then provide an explanation of why beneath the table.
 

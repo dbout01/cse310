@@ -68,13 +68,16 @@ Every Sprint you will be setting a goal to improve one of your learning skills. 
 
 This section should be filled out during Week 14 and submitted.
 
-After a long semester of learning new things, its good to pause and consider what you experienced.  You learned many new technologies and languages on your own.  You have the capability to continue to do this outside of school. Sprint 6 and beyond is in your hands.
+        After a long semester of learning new things, its good to pause and consider what you experienced.  You learned many new technologies and languages on your own. You have the capability to continue to do this outside of school. Sprint 6 and beyond is in your hands.
 
 1. As you have worked individually and as a team to develop your personal software portfolio, how have your technical skills improved?
 
+        As an individual, I've been able become more comfortable trying new things which has added to my technical skills (React, .NET, etc.). As a team, my technical skill for Unity has grown and udnerstanding the fundamental aspects of game creation and project managment could help me in the future.
 
 2. Identify at least one technology or language you learned this semester that you want to continue to improve after this course.  What is your next step?
 
+         Two technologies I learned this semester that I want to continue to improve are Firebase and Networking. For Firebase, my next step is to delve deeper into its advanced features such as Cloud Functions, Firestore Security Rules, and real-time database synchronization to build more complex and secure applications. I'll follow tutorials, read documentation, and implement small projects to solidify my understanding. For Networking, I plan to enhance my knowledge of protocols, socket programming, and network security. I will do further research on those things.
 
 3. Look back at the goal you wrote at the beginning of the semester (Part 1 above).  What was the result of your goal?  Did your goal change during the semester?  What do you want to work on next to improve your ability to learn?
 
+        The result of my goal was successful. Each week, I made it a point to point out what challenges I can encounter and help mitigate them. My goal did not change this semester because I felt like I needed to always improve my identification and mitigation of obstacles instead of giving up like I used to. For my next goal, I want to focus on enhancing my project management skills, particularly in coordinating team efforts and meeting deadlines, as these are critical for my future career as a Software Project Manager.
